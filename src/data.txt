@@ -1,0 +1,22 @@
+																******************** LISTADO DE EVENTOS ********************
+
+
+FECHA EVENTO			ID OPERARIO		NOMBRE OPERARIO					TIPO DE EVENTO					TEMPERATURA AMBIENTE SENSADA			HUMEDAD AMBIENTE SENSADA			TEMPERATURA CONFIGURADA MOTOR ENCENDIDO		TEMPERATURA CONFIGURADA MOTOR APAGADO		UMBRAL HUMEDAD						
+-------------			-----------		---------------					-----------------				----------------------------			------------------------			---------------------------------------		-------------------------------------		--------------
+
+04/08/2023 20:20:52		32765881		Federico Iriarte			   Parada por temperatura				10.00						5						36.00						21.00						62
+04/08/2023 20:21:08		32765881		Federico Iriarte			               Emergencia				999.00						888						36.00						21.00						62
+04/08/2023 20:22:55		32765881		Federico Iriarte			 Arranque por temperatura				36.00						71						35.00						20.00						70
+04/08/2023 20:24:12		32765881		Federico Iriarte			     Arranque por humedad				25.00						91						35.00						20.00						70
+04/08/2023 20:27:09		32765881		Federico Iriarte			       Parada por humedad				23.00						10						35.00						20.00						70
+07/08/2023 19:36:28		32765881		Federico Iriarte			   Parada por temperatura				9.00						67						35.00						20.00						70
+07/08/2023 19:37:07		32765881		Federico Iriarte			               Emergencia				999.00						888						35.00						20.00						70
+07/08/2023 19:42:04		32765881		Federico Iriarte			   Parada por temperatura				9.00						66						35.00						20.00						70
+07/08/2023 19:42:18		32765881		Federico Iriarte			               Emergencia				999.00						888						35.00						20.00						70
+07/08/2023 19:43:25		32765881		Federico Iriarte			   Parada por temperatura				11.00						54						35.00						20.00						70
+07/08/2023 19:43:36		32765881		Federico Iriarte			   Parada por temperatura				14.00						27						35.00						20.00						70
+07/08/2023 19:44:07		32765881		Federico Iriarte			   Parada por temperatura				14.00						12						35.00						20.00						70
+07/08/2023 19:44:26		32765881		Federico Iriarte			               Emergencia				999.00						888						35.00						20.00						70
+07/08/2023 19:46:49		32765881		Federico Iriarte			   Parada por temperatura				9.00						67						35.00						20.00						70
+07/08/2023 19:47:10		32765881		Federico Iriarte			               Emergencia				999.00						888						35.00						20.00						70
+10/08/2023 18:50:25		32765881		Federico Iriarte			     Arranque por humedad				17.00						84						25.00						15.00						70

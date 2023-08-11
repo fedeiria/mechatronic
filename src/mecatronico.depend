@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1691448200 source:c:\users\fede\onedrive\escritorio\mecatronico\mechatronic.c
+	"mechatronic.h"
+
+1691448116 source:c:\users\fede\onedrive\escritorio\mecatronico\init.c
+	"init.h"
+
+1691012934 c:\users\fede\onedrive\escritorio\mecatronico\init.h
+	"arraylist.h"
+	"mechatronic.h"
+	"validations.h"
+
+1691447757 c:\users\fede\onedrive\escritorio\mecatronico\mechatronic.h
+	<time.h>
+	"arraylist.h"
+	"validations.h"
+
+1689202837 c:\users\fede\onedrive\escritorio\mecatronico\arraylist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1689816575 c:\users\fede\onedrive\escritorio\mecatronico\validations.h
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1689816503 source:c:\users\fede\onedrive\escritorio\mecatronico\main.c
+	<stdlib.h>
+	"init.h"
+
+1689288910 source:c:\users\fede\onedrive\escritorio\mecatronico\validations.c
+	"validations.h"
+
+1689816396 source:c:\users\fede\onedrive\escritorio\mecatronico\arraylist.c
+	"arraylist.h"
+
+1691620168 source:c:\users\fede\onedrive\escritorio\mecatronico\src\arraylist.c
+	"../inc/arraylist.h"
+
+1691619145 source:c:\users\fede\onedrive\escritorio\mecatronico\src\init.c
+	"../inc/init.h"
+
+1691619135 source:c:\users\fede\onedrive\escritorio\mecatronico\src\main.c
+	<stdlib.h>
+	"../inc/init.h"
+
+1691703105 source:c:\users\fede\onedrive\escritorio\mecatronico\src\mechatronic.c
+	"../inc/mechatronic.h"
+
+1691621332 source:c:\users\fede\onedrive\escritorio\mecatronico\src\validations.c
+	"../inc/validations.h"
+
+1691619958 c:\users\fede\onedrive\escritorio\mecatronico\inc\arraylist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1691619195 c:\users\fede\onedrive\escritorio\mecatronico\inc\init.h
+	"arraylist.h"
+	"mechatronic.h"
+	"validations.h"
+
+1691709890 c:\users\fede\onedrive\escritorio\mecatronico\inc\mechatronic.h
+	<time.h>
+	"arraylist.h"
+	"validations.h"
+
+1691621332 c:\users\fede\onedrive\escritorio\mecatronico\inc\validations.h
+	<conio.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
